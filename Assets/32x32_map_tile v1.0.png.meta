@@ -1,0 +1,2599 @@
+fileFormatVersion: 2
+guid: 5d330fb96a8ce604bb8e7889e0aaac61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1585148884297711341
+    second: 32x32_map_tile v1.0_0
+  - first:
+      213: 7786716856098988225
+    second: 32x32_map_tile v1.0_1
+  - first:
+      213: 6382684830868808981
+    second: 32x32_map_tile v1.0_2
+  - first:
+      213: -606161258629193786
+    second: 32x32_map_tile v1.0_3
+  - first:
+      213: 2070339997454364301
+    second: 32x32_map_tile v1.0_4
+  - first:
+      213: 6099378915817057729
+    second: 32x32_map_tile v1.0_5
+  - first:
+      213: -7725512672122990127
+    second: 32x32_map_tile v1.0_6
+  - first:
+      213: -2118457174493984723
+    second: 32x32_map_tile v1.0_7
+  - first:
+      213: -6730444924293008953
+    second: 32x32_map_tile v1.0_8
+  - first:
+      213: -3804700545296343798
+    second: 32x32_map_tile v1.0_9
+  - first:
+      213: 8252122582933941760
+    second: 32x32_map_tile v1.0_10
+  - first:
+      213: -3193101572064102677
+    second: 32x32_map_tile v1.0_11
+  - first:
+      213: 3752073488303317336
+    second: 32x32_map_tile v1.0_12
+  - first:
+      213: 4860404872569404482
+    second: 32x32_map_tile v1.0_13
+  - first:
+      213: -1475035361978530673
+    second: 32x32_map_tile v1.0_14
+  - first:
+      213: 5243462551984892723
+    second: 32x32_map_tile v1.0_15
+  - first:
+      213: 3826586065596693588
+    second: 32x32_map_tile v1.0_16
+  - first:
+      213: 213094230095222447
+    second: 32x32_map_tile v1.0_17
+  - first:
+      213: 8174396344626593340
+    second: 32x32_map_tile v1.0_18
+  - first:
+      213: 4488690428097522361
+    second: 32x32_map_tile v1.0_19
+  - first:
+      213: -5164551519219636618
+    second: 32x32_map_tile v1.0_20
+  - first:
+      213: -2084223754376384541
+    second: 32x32_map_tile v1.0_21
+  - first:
+      213: -2715771768973024100
+    second: 32x32_map_tile v1.0_22
+  - first:
+      213: -4366778025033579231
+    second: 32x32_map_tile v1.0_23
+  - first:
+      213: -2271437736612193089
+    second: 32x32_map_tile v1.0_24
+  - first:
+      213: -776052053854988423
+    second: 32x32_map_tile v1.0_25
+  - first:
+      213: 7008019371097795223
+    second: 32x32_map_tile v1.0_26
+  - first:
+      213: 8172529897885206244
+    second: 32x32_map_tile v1.0_27
+  - first:
+      213: 2661900035077865809
+    second: 32x32_map_tile v1.0_28
+  - first:
+      213: 646288039826686441
+    second: 32x32_map_tile v1.0_29
+  - first:
+      213: 6574218851344219950
+    second: 32x32_map_tile v1.0_30
+  - first:
+      213: 6090733586881667855
+    second: 32x32_map_tile v1.0_31
+  - first:
+      213: -8475309683142432968
+    second: 32x32_map_tile v1.0_32
+  - first:
+      213: 7145453390602470460
+    second: 32x32_map_tile v1.0_33
+  - first:
+      213: -6217874015064494780
+    second: 32x32_map_tile v1.0_34
+  - first:
+      213: 3976608023016429972
+    second: 32x32_map_tile v1.0_35
+  - first:
+      213: -5479337459825581408
+    second: 32x32_map_tile v1.0_36
+  - first:
+      213: 3693451301587992523
+    second: 32x32_map_tile v1.0_37
+  - first:
+      213: 4079674882147327886
+    second: 32x32_map_tile v1.0_38
+  - first:
+      213: 7041845846733479083
+    second: 32x32_map_tile v1.0_39
+  - first:
+      213: -4532228702323261336
+    second: 32x32_map_tile v1.0_40
+  - first:
+      213: 1604251484711268073
+    second: 32x32_map_tile v1.0_41
+  - first:
+      213: -3848270766114320101
+    second: 32x32_map_tile v1.0_42
+  - first:
+      213: 5596765537593240829
+    second: 32x32_map_tile v1.0_43
+  - first:
+      213: 9116812969757260620
+    second: 32x32_map_tile v1.0_44
+  - first:
+      213: -708816253661157940
+    second: 32x32_map_tile v1.0_45
+  - first:
+      213: -3050838256327559238
+    second: 32x32_map_tile v1.0_46
+  - first:
+      213: -466843921437325228
+    second: 32x32_map_tile v1.0_47
+  - first:
+      213: 2083554296857482298
+    second: 32x32_map_tile v1.0_48
+  - first:
+      213: -1867271179180966542
+    second: 32x32_map_tile v1.0_49
+  - first:
+      213: 7034556007524571926
+    second: 32x32_map_tile v1.0_50
+  - first:
+      213: 6990122677978122217
+    second: 32x32_map_tile v1.0_51
+  - first:
+      213: -7432786420866201586
+    second: 32x32_map_tile v1.0_52
+  - first:
+      213: -5049281126119614652
+    second: 32x32_map_tile v1.0_53
+  - first:
+      213: -6774319189825453849
+    second: 32x32_map_tile v1.0_54
+  - first:
+      213: -5270483223990625580
+    second: 32x32_map_tile v1.0_55
+  - first:
+      213: 792583580120438850
+    second: 32x32_map_tile v1.0_56
+  - first:
+      213: -4950674321134259464
+    second: 32x32_map_tile v1.0_57
+  - first:
+      213: 4077419173505306014
+    second: 32x32_map_tile v1.0_58
+  - first:
+      213: -3518343664597791736
+    second: 32x32_map_tile v1.0_59
+  - first:
+      213: 6540695478730473134
+    second: 32x32_map_tile v1.0_60
+  - first:
+      213: -1576167279454725945
+    second: 32x32_map_tile v1.0_61
+  - first:
+      213: -8881275147000236902
+    second: 32x32_map_tile v1.0_62
+  - first:
+      213: 7158023747378319098
+    second: 32x32_map_tile v1.0_63
+  - first:
+      213: 4360160704472627281
+    second: 32x32_map_tile v1.0_64
+  - first:
+      213: 5360981961149374323
+    second: 32x32_map_tile v1.0_65
+  - first:
+      213: -3570108717133587483
+    second: 32x32_map_tile v1.0_66
+  - first:
+      213: -3368163625505795344
+    second: 32x32_map_tile v1.0_67
+  - first:
+      213: -2009459219110473307
+    second: 32x32_map_tile v1.0_68
+  - first:
+      213: -5511086678597533669
+    second: 32x32_map_tile v1.0_69
+  - first:
+      213: -1187017217413637173
+    second: 32x32_map_tile v1.0_70
+  - first:
+      213: 535758264735534632
+    second: 32x32_map_tile v1.0_71
+  - first:
+      213: -1169791511671613355
+    second: 32x32_map_tile v1.0_72
+  - first:
+      213: -7822982080106269083
+    second: 32x32_map_tile v1.0_73
+  - first:
+      213: -2998518744358164245
+    second: 32x32_map_tile v1.0_74
+  - first:
+      213: 2237480627393716624
+    second: 32x32_map_tile v1.0_75
+  - first:
+      213: -7585094190650450481
+    second: 32x32_map_tile v1.0_76
+  - first:
+      213: -3435953682042039805
+    second: 32x32_map_tile v1.0_77
+  - first:
+      213: 8262642356666131965
+    second: 32x32_map_tile v1.0_78
+  - first:
+      213: 3174144490282449785
+    second: 32x32_map_tile v1.0_79
+  - first:
+      213: 4530533705378012783
+    second: 32x32_map_tile v1.0_80
+  - first:
+      213: 151566072417492101
+    second: 32x32_map_tile v1.0_81
+  - first:
+      213: -1737224255371374740
+    second: 32x32_map_tile v1.0_82
+  - first:
+      213: -8310975437438669783
+    second: 32x32_map_tile v1.0_83
+  - first:
+      213: 8773687274639999554
+    second: 32x32_map_tile v1.0_84
+  - first:
+      213: 6143526984911104923
+    second: 32x32_map_tile v1.0_85
+  - first:
+      213: 2775672665897054618
+    second: 32x32_map_tile v1.0_86
+  - first:
+      213: -4643944601801764683
+    second: 32x32_map_tile v1.0_87
+  - first:
+      213: 8505559858193343676
+    second: 32x32_map_tile v1.0_88
+  - first:
+      213: 6143190784146903261
+    second: 32x32_map_tile v1.0_89
+  - first:
+      213: -7521555433313425360
+    second: 32x32_map_tile v1.0_90
+  - first:
+      213: -7871113875004225122
+    second: 32x32_map_tile v1.0_91
+  - first:
+      213: 4319963464791741836
+    second: 32x32_map_tile v1.0_92
+  - first:
+      213: 3418920475201151945
+    second: 32x32_map_tile v1.0_93
+  - first:
+      213: -6169318108615512345
+    second: 32x32_map_tile v1.0_94
+  - first:
+      213: -6974183860039381288
+    second: 32x32_map_tile v1.0_95
+  - first:
+      213: 3608687344625902118
+    second: 32x32_map_tile v1.0_96
+  - first:
+      213: -4724962968332707865
+    second: 32x32_map_tile v1.0_97
+  - first:
+      213: -801006216304352522
+    second: 32x32_map_tile v1.0_98
+  - first:
+      213: -7893987248397128647
+    second: 32x32_map_tile v1.0_99
+  - first:
+      213: 7606690001258748334
+    second: 32x32_map_tile v1.0_100
+  - first:
+      213: 5910116051069922476
+    second: 32x32_map_tile v1.0_101
+  - first:
+      213: 8125412419412876401
+    second: 32x32_map_tile v1.0_102
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a065f1baeb2b2344a19af02c7bec077
+      internalID: 1585148884297711341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe7785a97d620541b97735b386955a4
+      internalID: 7786716856098988225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08b0fc14fbb02e4486ab233d8808862
+      internalID: 6382684830868808981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba15e13db4664684eada16d1a7ec3f88
+      internalID: -606161258629193786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ecdec0303809b47becfd36a4d07d28
+      internalID: 2070339997454364301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75454e0463734054d99bd7f525aa53ed
+      internalID: 6099378915817057729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1658098b268226f48bc57a5d4bac6d96
+      internalID: -7725512672122990127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1273ff30d24a848af8005468006fd4
+      internalID: -2118457174493984723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c1f2e3fe4558449ae4f8891af16738
+      internalID: -6730444924293008953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbf1a69dedfe344e91c436d9e799315
+      internalID: -3804700545296343798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daeb1cb737bfa04482741a9beeee3e7
+      internalID: 8252122582933941760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db00da3296e89204d8b899487e0b572d
+      internalID: -3193101572064102677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2867559ec02244f8cdb5771111cd11
+      internalID: 3752073488303317336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd0bbb5dc13e99418a14616869635b4
+      internalID: 4860404872569404482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca4ee1581c24c643bf1ebd4f587835c
+      internalID: -1475035361978530673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8862c96b12315469e63be2fbedd740
+      internalID: 5243462551984892723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1a8b5c520155c49ac954f28a04f55b
+      internalID: 3826586065596693588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8718058832a4449f540f80d1eb1a5
+      internalID: 213094230095222447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200f7cb50b70eef47b1582f6bc52fe2c
+      internalID: 8174396344626593340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23998cd422a3b60468398e76b5e13cb0
+      internalID: 4488690428097522361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d64e53f46238a41a4c1736098d7932
+      internalID: -5164551519219636618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80623c2001a98d74080ce659b9b5493d
+      internalID: -2084223754376384541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c14bba8b9d7bf4cb0881cd19d24c55
+      internalID: -2715771768973024100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_23
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63ef0d3c8156084f83ede2b75d4df39
+      internalID: -4366778025033579231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6058c9c1d669b4db3af0fac5529073
+      internalID: -2271437736612193089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91906d9223e609a4dae9258d80d505b1
+      internalID: -776052053854988423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68473f70c66a25499c47690ab9f3aee
+      internalID: 7008019371097795223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4658fdff82c68429a4a50210760620
+      internalID: 8172529897885206244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6261bdee820c2046b709cf420108ee4
+      internalID: 2661900035077865809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_29
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5c916c400973745b4878d5218ddaaa
+      internalID: 646288039826686441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 182
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302cc02c071c8834491e9c685416c7dc
+      internalID: 6574218851344219950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 186
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff89d7090c097334aa7a8b329edc6596
+      internalID: 6090733586881667855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53538af7e21cd0419d856fc1590d273
+      internalID: -8475309683142432968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df6645de2d73b74caacff1ddf7e4b62
+      internalID: 7145453390602470460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34cbac95e09ed74291b3bc830aa7c40
+      internalID: -6217874015064494780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387062839bc9c28468e77bf1b61bad7c
+      internalID: 3976608023016429972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_36
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a6fc3dcb901c84bad26d717ca3199a
+      internalID: -5479337459825581408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_37
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b443b6c4b9652e43b2207a6ddca0e36
+      internalID: 3693451301587992523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_38
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd698d06b00eb58459084c1ba1c712b4
+      internalID: 4079674882147327886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_39
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 165
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1049c05affb3045a77e8c3852d9e3f
+      internalID: 7041845846733479083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 165
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881052a0398942b47832f0ce2c427e8d
+      internalID: -4532228702323261336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30c4c65114271f43adffd83cfbab5b9
+      internalID: 1604251484711268073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce667e42429be478b1bc51a935d47b
+      internalID: -3848270766114320101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2953c2ae826d74d8a61037eb10945c
+      internalID: 5596765537593240829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d71bed11fc24e44bf66970a9f407be
+      internalID: 9116812969757260620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2974fdefb187141868b537d48103fe
+      internalID: -708816253661157940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8775c3b3b60e0d44a94ec7d85026a14f
+      internalID: -3050838256327559238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316261559ad77c408acd03507f73a5e
+      internalID: -466843921437325228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d413d98f7908d4eaa708e3622aa9f1
+      internalID: 2083554296857482298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_49
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11b68b79e8b67947a1db9b78a6b3a13
+      internalID: -1867271179180966542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a78b536e0e1fc48bf04269de5d4f50
+      internalID: 7034556007524571926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_51
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dba662b12374047be137bebf4761db
+      internalID: 6990122677978122217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2f81c6364f97b4ba1ee3dc7370edb5
+      internalID: -7432786420866201586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_53
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc3c4b30553ede46a5f8a3d0800c26c
+      internalID: -5049281126119614652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_54
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 132
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a72cb2ad8362249b73dc305282700f
+      internalID: -6774319189825453849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29de7af2cde9864ca8d56ec5c999998
+      internalID: -5270483223990625580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9151cdcc790b5fd4683b942069c3b342
+      internalID: 792583580120438850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68fc66aba186a047a20a61c5b6e6114
+      internalID: -4950674321134259464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_58
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 66
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bbe92ea0845f647bd3062741a6d901
+      internalID: 4077419173505306014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_59
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 66
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb94916d35091f499e9990c9882b676
+      internalID: -3518343664597791736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 66
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534419759e1d0c249a31ba2ada285e9e
+      internalID: 6540695478730473134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacbc325012beb24f93ce4eb100d8a9d
+      internalID: -1576167279454725945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_62
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1e2ab67a1af3b438624f6939886910
+      internalID: -8881275147000236902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_63
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4d45db05cc2da409ac0eb81cd66a18
+      internalID: 7158023747378319098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_64
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10614b1e5b10a84396ef4109420b8f0
+      internalID: 4360160704472627281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_65
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f5b3f8383d09743b1e5544a2ab3532
+      internalID: 5360981961149374323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_66
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e4c142e0dfb9e418d8476470221f9a
+      internalID: -3570108717133587483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_67
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1204df476770754c97437f80033237c
+      internalID: -3368163625505795344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_68
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8365b6a8b81154408270b619144aa45
+      internalID: -2009459219110473307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_69
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286f962f1d405394f813165c42f9a104
+      internalID: -5511086678597533669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_70
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a11f113af8a4438c70e5466440b57
+      internalID: -1187017217413637173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_71
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d8f1ec1e3236c479faf0acf3773976
+      internalID: 535758264735534632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_72
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e046994beb1233448b6cbaf710f99c0
+      internalID: -1169791511671613355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_73
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74773f3865d6f2408566ae196bc2efa
+      internalID: -7822982080106269083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_74
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c597fb40b0de83d4d89fc40569c86103
+      internalID: -2998518744358164245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_75
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863ffa8de82f22f47861684c476901c9
+      internalID: 2237480627393716624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 66
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb2d4efbc4cb2848aa423b198fef955
+      internalID: -7585094190650450481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_77
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c437fcbcd5684ca3f1e589b9a6116
+      internalID: -3435953682042039805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_78
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed7e24077647344c8cdb68d8e861903
+      internalID: 8262642356666131965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_79
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfb54395877474429d57c027a08091a
+      internalID: 3174144490282449785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_80
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b49f66ce89a8844dbe3f5da3a9cbc1b
+      internalID: 4530533705378012783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_81
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4668525201af94898944807eab6297
+      internalID: 151566072417492101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_82
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f71471c1cf9734993fef0a2152b361
+      internalID: -1737224255371374740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21bb0909a6583643aa232698ce3928e
+      internalID: -8310975437438669783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_84
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0a86ea60887ad479d1e5ef97f0df98
+      internalID: 8773687274639999554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_85
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663f5f542cfb9cf4d901ab426d08ffc3
+      internalID: 6143526984911104923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_86
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b643ce541bf86943bcfb8de9aeaa7e0
+      internalID: 2775672665897054618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_87
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d0c8a8e99638478c9f43c16984a1b
+      internalID: -4643944601801764683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_88
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc2a6180f8457c4dbf45ee8b3a04433
+      internalID: 8505559858193343676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_89
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3c191878c2a674fb948cc7f6273694
+      internalID: 6143190784146903261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2733eb364b2b54f8e2d19eeac9cd41
+      internalID: -7521555433313425360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8c5a4c063080a4e98a3a2dc9d9d5e8
+      internalID: -7871113875004225122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0969cbc3966cb84cb6a875538d1882e
+      internalID: 4319963464791741836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_93
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016b672aa34b47441b2fea7ef478a0a5
+      internalID: 3418920475201151945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_94
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c129fe309c28846add808f7d498189
+      internalID: -6169318108615512345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_95
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec55404b4c32248a7f4b91d68b660e
+      internalID: -6974183860039381288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6b63ade4edb1d4bbe31dfbcf6a069b
+      internalID: 3608687344625902118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_97
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c5fd4bfd706a0479b0d84943bdc9bc
+      internalID: -4724962968332707865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_98
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528231e4d3ba13d458e136b6dd96ef99
+      internalID: -801006216304352522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_99
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c95b8bd0fa234439910b3a647a0fc1
+      internalID: -7893987248397128647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_100
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac5a6026966f840940c18e2104ee2c
+      internalID: 7606690001258748334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_101
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5c9881e824621418d0954eb51af139
+      internalID: 5910116051069922476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_map_tile v1.0_102
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb3b2f3810170043887a4c1ef94124b
+      internalID: 8125412419412876401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

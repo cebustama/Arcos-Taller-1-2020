@@ -1,5 +1,57 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1776083066453133832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 777140064354088838}
+  - component: {fileID: 6003225490371292013}
+  m_Layer: 0
+  m_Name: Shooting Point (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &777140064354088838
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776083066453133832}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.15, y: 2.11, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1266485005191686354}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6003225490371292013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776083066453133832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25702fc7c56e91646b7356578005b6cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shakeAmount: 10
+  effect: {fileID: 0}
+  prefabToSpawn: {fileID: 5315462599617027508, guid: 0cedf263f39e0154b9a1c53c8357eeed,
+    type: 3}
+  autoShoot: 0
+  creationRate: 0.1
+  shootSpeed: 15
+  shootDirection: {x: 0, y: 1}
+  relativeToRotation: 1
 --- !u!1 &2035060627637078083
 GameObject:
   m_ObjectHideFlags: 0
@@ -45,12 +97,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shakeAmount: 10
   effect: {fileID: 0}
-  prefabToSpawn: {fileID: 8070264117474011884, guid: 913c6e3b17109c04685745e0af7d1b5f,
+  prefabToSpawn: {fileID: 5315462599617027508, guid: 0cedf263f39e0154b9a1c53c8357eeed,
     type: 3}
   autoShoot: 0
   creationRate: 0.1
   shootSpeed: 15
-  shootDirection: {x: 0.31, y: 1}
+  shootDirection: {x: 0.91, y: 1}
   relativeToRotation: 1
 --- !u!1001 &4735760948078674974
 PrefabInstance:
@@ -68,7 +120,7 @@ PrefabInstance:
         type: 3}
       propertyPath: prefabToSpawn
       value: 
-      objectReference: {fileID: 8070264117474011884, guid: 913c6e3b17109c04685745e0af7d1b5f,
+      objectReference: {fileID: 5315462599617027508, guid: 0cedf263f39e0154b9a1c53c8357eeed,
         type: 3}
     - target: {fileID: 3309699895611071487, guid: 24dd2e729be85b14fac7624f515135a8,
         type: 3}
@@ -83,7 +135,7 @@ PrefabInstance:
     - target: {fileID: 3309699895611071487, guid: 24dd2e729be85b14fac7624f515135a8,
         type: 3}
       propertyPath: shootDirection.x
-      value: -0.13
+      value: -0.9
       objectReference: {fileID: 0}
     - target: {fileID: 3880306833894252295, guid: 24dd2e729be85b14fac7624f515135a8,
         type: 3}
@@ -98,22 +150,22 @@ PrefabInstance:
     - target: {fileID: 3880306833894252295, guid: 24dd2e729be85b14fac7624f515135a8,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.99881464
+      value: 0.9186879
       objectReference: {fileID: 0}
     - target: {fileID: 3880306833894252295, guid: 24dd2e729be85b14fac7624f515135a8,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.048675474
+      value: -0.39498436
       objectReference: {fileID: 0}
     - target: {fileID: 3880306833894252295, guid: 24dd2e729be85b14fac7624f515135a8,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 174.42
+      value: 226.53
       objectReference: {fileID: 0}
     - target: {fileID: 3880306833894252295, guid: 24dd2e729be85b14fac7624f515135a8,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 5776913374556892364, guid: 24dd2e729be85b14fac7624f515135a8,
         type: 3}
@@ -189,7 +241,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: f45bafab4f3f89d49afc2ed28645fe05,
+      objectReference: {fileID: 21300000, guid: 1842b22f6c413684490c616a5a0dcf5c,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 24dd2e729be85b14fac7624f515135a8, type: 3}

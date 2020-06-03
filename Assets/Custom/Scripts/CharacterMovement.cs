@@ -50,10 +50,7 @@ public class CharacterMovement : MonoBehaviour
         // Si es enemigo, buscar al player
         if (isEnemy)
         {
-            player = GameObject.FindGameObjectWithTag("Player");
-
-            UnityEngine.Random.InitState(System.Environment.TickCount);
-            t = UnityEngine.Random.Range(0.1f, 99.9f);
+            InitEnemy();    
         }
     }
 
@@ -68,14 +65,29 @@ public class CharacterMovement : MonoBehaviour
         // Comportamiento del enemigo
         else
         {
-            force = Vector2.zero;
-
-            WanderMove();
-            FollowPlayer();
-
-            move = force.normalized;
+            UpdateEnemy();
         }
 
+        UpdateAnimation();
+
+        UpdateUI();    
+    }
+
+    private void FixedUpdate()
+    {
+        if (!isEnemy)
+        {
+            // Mover objeto a través del RigidBody2D
+            rb.MovePosition(transform.position + (Vector3)move * Time.fixedDeltaTime * speed);
+        }
+        else
+        {
+            rb.AddForce(force);
+        }
+    }
+
+    void UpdateAnimation()
+    {
         // Setear parámetros de animación
         if (move != Vector2.zero)
         {
@@ -98,7 +110,10 @@ public class CharacterMovement : MonoBehaviour
         {
             animatorObject.transform.localScale = new Vector2(-baseScaleX, transform.localScale.y);
         }
+    }
 
+    void UpdateUI()
+    {
         // Barra de vida
         if (healthBar != null)
         {
@@ -109,17 +124,24 @@ public class CharacterMovement : MonoBehaviour
         }
     }
 
-    private void FixedUpdate()
+    #region Enemy Behaviour
+
+    void InitEnemy()
     {
-        if (!isEnemy)
-        {
-            // Mover objeto a través del RigidBody2D
-            rb.MovePosition(transform.position + (Vector3)move * Time.fixedDeltaTime * speed);
-        }
-        else
-        {
-            rb.AddForce(force);
-        }
+        player = GameObject.FindGameObjectWithTag("Player");
+
+        UnityEngine.Random.InitState(System.Environment.TickCount);
+        t = UnityEngine.Random.Range(0.1f, 99.9f);
+    }
+
+    void UpdateEnemy()
+    {
+        force = Vector2.zero;
+
+        WanderMove();
+        FollowPlayer();
+
+        move = force.normalized;
     }
 
     void WanderMove()
@@ -150,4 +172,6 @@ public class CharacterMovement : MonoBehaviour
         followForce *= (pointDist >= 0.2f) ? followPlayerMove : 0f;
         force += followForce;
     }
+
+    #endregion
 }

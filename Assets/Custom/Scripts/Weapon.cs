@@ -2,11 +2,18 @@
 
 public class Weapon : MonoBehaviour
 {
+    public bool autoshoot = false;
+
     [Header("Crosshair")]
     public Sprite crossHair;
     public float crossHairSize = 1f;
 
+    CharacterMovement character;
+
     Vector2 mousePos;
+
+    bool isEnemyWeapon = false;
+    Transform target;
 
     GameObject crossHairObj;
 
@@ -16,6 +23,8 @@ public class Weapon : MonoBehaviour
 
     private void Awake()
     {
+        gameObject.tag = "Weapon";
+
         if (crossHair != null)
         {
             crossHairObj = new GameObject("crosshair");
@@ -26,6 +35,18 @@ public class Weapon : MonoBehaviour
         }
 
         shooters = GetComponentsInChildren<ObjectShooterProfe>();
+
+        // Enemy weapons
+        character = (transform.parent != null) ? transform.parent.GetComponent<CharacterMovement>() : null;
+        if (character != null && character.isEnemy)
+        {
+            isEnemyWeapon = true;
+            equipped = true;
+            autoshoot = true;
+            if (crossHairObj != null) Destroy(crossHairObj);
+
+            target = GameObject.FindGameObjectWithTag("Player").transform;
+        }
     }
 
     private void Update()
@@ -43,9 +64,19 @@ public class Weapon : MonoBehaviour
         }
 
         // Rotar arma
-        mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        Vector2 targetPos = Vector2.zero;
 
-        Vector2 lookDir = (mousePos - (Vector2)transform.position);
+        if (isEnemyWeapon)
+        {
+            targetPos = target.transform.position;
+        }
+        else
+        {
+            mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            targetPos = mousePos;
+        }
+
+        Vector2 lookDir = (targetPos - (Vector2)transform.position);
 
         float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg - 90;
 
@@ -58,7 +89,7 @@ public class Weapon : MonoBehaviour
         }
 
         // Disparar
-        if (Input.GetMouseButton(0))
+        if (Input.GetMouseButton(0) || autoshoot)
         {
             Shoot();
         }

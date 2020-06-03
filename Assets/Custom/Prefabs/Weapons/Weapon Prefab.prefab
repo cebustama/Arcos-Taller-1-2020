@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7184804476622819245}
   m_Layer: 0
   m_Name: Weapon Prefab
-  m_TagString: Untagged
+  m_TagString: Weapon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46,6 +46,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9dd9a0ab1f96e804ab674640051175f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  autoshoot: 0
   crossHair: {fileID: 21300000, guid: 8642cefdcdc7fb84a924f14812b3e60c, type: 3}
   crossHairSize: 5
 --- !u!58 &7184804476622819245

@@ -16,6 +16,8 @@ public class HealthSystemProfe : MonoBehaviour
     // it's -1 if the object is not a player
     private int playerNumber;
 
+    UIScript userInterface;
+
     private void Start()
     {
         // Set the player number based on the GameObject tag
@@ -35,6 +37,8 @@ public class HealthSystemProfe : MonoBehaviour
         // Notify the UI so it will show the right initial amount
 
         maxHealth = health; //note down the maximum health to avoid going over it when the player gets healed
+
+        userInterface = FindObjectOfType<UIScript>();
     }
 
 
@@ -65,6 +69,8 @@ public class HealthSystemProfe : MonoBehaviour
         //DEAD
         if (health <= 0)
         {
+            // AGREGAR ALGO ANTES DE MORIR
+            userInterface.AddPoints(0, score);
             Destroy(gameObject);
         }
     }

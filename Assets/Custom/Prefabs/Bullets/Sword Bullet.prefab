@@ -12,6 +12,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sword Bullet
       objectReference: {fileID: 0}
+    - target: {fileID: 8406498829386684091, guid: 890fc45b23117b9428988da1f168775d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2ee127fb51a2d4d4d927787c563c3e5c,
+        type: 3}
     - target: {fileID: 8715661194555521259, guid: 890fc45b23117b9428988da1f168775d,
         type: 3}
       propertyPath: m_LocalPosition.x

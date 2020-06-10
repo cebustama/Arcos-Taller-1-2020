@@ -6,6 +6,8 @@ public class GameManager : MonoBehaviour
 
     public GameObject pauseMenu;
 
+    public int score = 0;
+
     public void ExitGame()
     {
 #if UNITY_EDITOR
@@ -33,12 +35,22 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    private void Awake()
+    {
+        score = PlayerPrefs.GetInt("Score");
+    }
+
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             PauseGame();
         }
+    }
+
+    public void NewGame()
+    {
+        PlayerPrefs.SetInt("Score", 0);
     }
 
     public void CheckScore(int newScore)

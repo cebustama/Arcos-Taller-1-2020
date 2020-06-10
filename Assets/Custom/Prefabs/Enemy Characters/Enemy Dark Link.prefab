@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 2539986928720091691}
   - component: {fileID: 2906187182533782352}
   - component: {fileID: 7900528488927964193}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Enemy Dark Link
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -119,7 +119,7 @@ GameObject:
   - component: {fileID: 3772198522966960761}
   - component: {fileID: 7061548616306189277}
   - component: {fileID: 9178868992318650368}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Name
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -196,7 +196,7 @@ GameObject:
   - component: {fileID: 3059728276096007766}
   - component: {fileID: 4458015000613449317}
   - component: {fileID: 1924941331308726271}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Stamina Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -269,7 +269,7 @@ GameObject:
   - component: {fileID: 3644635472035075509}
   - component: {fileID: 5016511016884198373}
   - component: {fileID: 7347196787964203131}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Health Bar Frame
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -343,7 +343,7 @@ GameObject:
   - component: {fileID: 5717018305712672158}
   - component: {fileID: 5253511641036366383}
   - component: {fileID: 3141882696641153402}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Health Bar Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -416,7 +416,7 @@ GameObject:
   - component: {fileID: 2461485069399735050}
   - component: {fileID: 7605732714550677373}
   - component: {fileID: 471766685177299324}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Health Bar Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -491,7 +491,7 @@ GameObject:
   - component: {fileID: 5491100753883853101}
   - component: {fileID: 4962361684109453893}
   - component: {fileID: 1943347065001579696}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -592,7 +592,7 @@ GameObject:
   - component: {fileID: 8754437258021625339}
   - component: {fileID: 4690661585048296628}
   - component: {fileID: 8338113098372375912}
-  m_Layer: 12
+  m_Layer: 0
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}

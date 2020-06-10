@@ -132,6 +132,8 @@ public class CharacterMovement : MonoBehaviour
 
         UnityEngine.Random.InitState(System.Environment.TickCount);
         t = UnityEngine.Random.Range(0.1f, 99.9f);
+
+        gameObject.tag = "Enemy";
     }
 
     void UpdateEnemy()

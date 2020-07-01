@@ -19,21 +19,21 @@ public class GameManager : MonoBehaviour
 #endif
     }
 
-    public void PauseGame()
-    {
-        if (!gamePaused)
+        public void PauseGame()
         {
-            Time.timeScale = 0f;
-            pauseMenu.SetActive(true);
-            gamePaused = true;
+            if (!gamePaused)
+            {
+                Time.timeScale = 0f;
+                pauseMenu.SetActive(true);
+                gamePaused = true;
+            }
+            else
+            {
+                Time.timeScale = 1f;
+                pauseMenu.SetActive(false);
+                gamePaused = false;
+            }
         }
-        else
-        {
-            Time.timeScale = 1f;
-            pauseMenu.SetActive(false);
-            gamePaused = false;
-        }
-    }
 
     private void Awake()
     {

@@ -62,6 +62,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\BulletPlatform.cs" />
+    <Compile Include="Assets\CatController.cs" />
     <Compile Include="Assets\Custom\Scripts\AttackCollisionDetection.cs" />
     <Compile Include="Assets\Custom\Scripts\AttackFront.cs" />
     <Compile Include="Assets\Custom\Scripts\CharacterMovement.cs" />
@@ -75,6 +77,7 @@
     <Compile Include="Assets\Custom\Scripts\Weapon.cs" />
     <Compile Include="Assets\LoadScene.cs" />
     <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\MovingPlatform.cs" />
     <Compile Include="Assets\OrderedSwitches.cs" />
     <Compile Include="Assets\PlayerAnimation.cs" />
     <Compile Include="Assets\Playground y Extras\AnchorSnap\AnchorSnap.cs" />
@@ -167,6 +170,9 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/cebus/Desktop/GameDev/Unity/Prueba Collab Taller/Arcos-Taller-1-2020/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>C:/Users/cebus/Desktop/GameDev/Unity/Prueba Collab Taller/Arcos-Taller-1-2020/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

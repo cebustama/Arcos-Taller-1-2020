@@ -50,8 +50,8 @@ public class ObjectShooter : MonoBehaviour
 
 			GameObject newObject = Instantiate<GameObject>(prefabToSpawn);
 			newObject.transform.position = this.transform.position;
-			newObject.transform.eulerAngles = new Vector3(0f, 0f, Utils.Angle(actualBulletDirection));
-			newObject.tag = "Bullet";
+			//newObject.transform.eulerAngles = new Vector3(0f, 0f, Utils.Angle(actualBulletDirection));
+			//newObject.tag = "Bullet";
 
 			// push the created objects, but only if they have a Rigidbody2D
 			Rigidbody2D rigidbody2D = newObject.GetComponent<Rigidbody2D>();

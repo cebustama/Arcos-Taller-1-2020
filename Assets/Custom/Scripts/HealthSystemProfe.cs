@@ -1,9 +1,12 @@
 ﻿using UnityEngine;
-using System.Collections;
+
+using UnityEngine.UI;
 
 public class HealthSystemProfe : MonoBehaviour
 {
     public int health = 3;
+
+    public Image healthBar;
 
     public Color hitColor;
 
@@ -34,11 +37,16 @@ public class HealthSystemProfe : MonoBehaviour
                 break;
         }
 
-        // Notify the UI so it will show the right initial amount
-
         maxHealth = health; //note down the maximum health to avoid going over it when the player gets healed
 
         userInterface = FindObjectOfType<UIScript>();
+
+        // Notify the UI so it will show the right initial amount
+        if (userInterface != null
+            && playerNumber != -1)
+        {
+            userInterface.SetHealth(health, playerNumber);
+        }
     }
 
 
@@ -55,6 +63,11 @@ public class HealthSystemProfe : MonoBehaviour
         health += amount;
 
         // Notify the UI so it will change the number in the corner
+        if (userInterface != null
+            && playerNumber != -1)
+        {
+            userInterface.ChangeHealth(amount, playerNumber);
+        }
 
         //
         if (amount < 0)
